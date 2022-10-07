@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mikelmoreno" target="blank"><img src="https://img.shields.io/twitter/follow/mikelmoreno?logo=twitter&style=for-the-badge" alt="mikelmoreno" /></a> </p>
 
-- 🔭 I’m currently working on **MSc Thesis and academic projects**
+- 🔭 I’m currently working on **projects that use artificial intelligence to improve cybersecurity and digital security**
 
-- 🌱 I’m currently learning **artificial intelligence and cybersecurity**
+- 🌱 I’m currently learning **about methods to create secure and private AI**
 
 - 👯 I’m looking to collaborate on **projects that make use of new technologies to improve the security of our systems and the web**
 
